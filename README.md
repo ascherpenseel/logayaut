@@ -58,7 +58,7 @@ npm i logayaut
 
 >>**densityShrinkFactor**: factor that represents how much density should impact their shrinking, from 0 (no impact) to 1 (a 100% dense image would result of a size of 0, a 70% dense one would result of 30% of their original size) (default: **.8**),
 
->>padding: Space around logos in the layout (default: **'20px'**)
+>>**padding**: Space around logos in the layout (default: **'20px'**)
 
 >}
 
