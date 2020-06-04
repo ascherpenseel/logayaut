@@ -1,0 +1,12 @@
+{
+  "name": "logayaut",
+  "version": "1.0.0",
+  "description": "Resize and place a bunch of logos in a div in a balanced way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["logos","layout","resize","density","flex"],
+  "author": "Alejandro Scherpenseel",
+  "license": "ISC"
+}
